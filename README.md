@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋   My name is Jorch 
+## I´m a programming technician, student of Computer Systems Engineering
 
-<!--
-**lechugasss/lechugasss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on the creation of programming courses, and i´m studing
+- 🌱 I’m learning web technologies like React, Vue, AJAX, NoSQL, and  technologies like Git Hub .
+- 👯 I’m looking to collaborate on native software development with languages like as, C, JAVA, C#, Python, Arduino,
+       and web development, front or back end, 
+- 😄 Pronouns: Lettuces/Lechugas
+- ⚡ Fun fact: I am fullstack
 
-Here are some ideas to get you started:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lechugasss&show_icons=true&bg_color=00000000)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lechugasss&langs_count=8_icons=true&bg_color=00000000)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lechugasss&layout=pie)](https://github.com/lechugasss/github-readme-stats)
